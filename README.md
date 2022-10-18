@@ -74,16 +74,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-<p align="center">
-  <img src="https://github.com/JaznanOfficial/JaznanOfficial/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-<hr/>
 
-<!-- my contribution -->
-
-<h2 align="center">
-  My Projects
-</h2>
 
 
 
