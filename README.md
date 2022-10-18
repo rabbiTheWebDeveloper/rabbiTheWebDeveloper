@@ -8,7 +8,7 @@
 rabbiTheWebDeveloper/rabbiTheWebDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### Welcome To Abdur Rahman's Github 👋
+### Welcome To Rabbi The Developer Github 👋
 
 ![](https://komarev.com/ghpvc/?username=JaznanOfficial&color=blueviolet)
 
@@ -85,22 +85,7 @@ You can click the Preview link to take a look at your changes.
   My Projects
 </h2>
 
-<div align = "center">
- 
- <img style="margin:50px;" src = "./images/cooking-bird.png" width='200' height= "400">
 
- <img style="margin:50px;" src = "./images/doctalk.png" width='200' height= "400">
-
- <img style="margin:50px;" src = "./images/aos.png" width='200' height= "400">
-  
-</div>
-<div align = "center">
- 
- <img style="margin:50px;" src = "https://i.ibb.co/bQS1b5p/screencapture-jaznanofficial-github-io-sample-portfolio-2022-01-17-09-13-51.png" width='200' height= "400">
- <img style="margin:50px;" src = "https://i.ibb.co/Bw2HgVT/screencapture-jaznanofficial-github-io-mouse-food-house-2022-01-17-09-21-51.png" width='200' height= "400" 
-</div>
-
-<!-- my projects -->
 
 
 
