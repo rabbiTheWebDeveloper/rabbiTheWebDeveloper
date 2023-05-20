@@ -52,14 +52,14 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=JaznanOfficial&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JaznanOfficial&theme=tokyonight">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=rabbiTheWebDeveloper&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rabbiTheWebDeveloper&theme=tokyonight">
 </p>
 
 <br/>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=JaznanOfficial&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rabbiTheWebDeveloper&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
 </p>
 
 <!-- my stats -->
@@ -69,7 +69,7 @@ You can click the Preview link to take a look at your changes.
 </h2>
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=JaznanOfficial&theme=tokyo-night">
+ <img src="https://activity-graph.herokuapp.com/graph?username=rabbiTheWebDeveloper&theme=tokyo-night">
 </p>
 
 <br>
